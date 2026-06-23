@@ -1,0 +1,9 @@
+{
+  "build": {
+    "dockerfilePath": "Dockerfile"
+  },
+  "plugins": [],
+  "env": {
+    "PORT": "8080"
+  }
+}

@@ -1,8 +1,10 @@
-# 🏛️ Apex Retro-OS Library Management System
+# 🏛️ Chris Library Management System
 
 A production-ready Full-Stack Library Management System built with **Spring Boot 3**, **PostgreSQL / H2**, and **Thymeleaf**. Designed with a classic 90s Desktop Operating System visual aesthetic (following the Retro-OS UI Kit styleguide).
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Soulofghost/llm)
+
+[![Deploy to Railway](https://railway.app/button.svg)](https://railway.app/new/template?code=gh/Soulofghost/llm)
 
 ---
 
